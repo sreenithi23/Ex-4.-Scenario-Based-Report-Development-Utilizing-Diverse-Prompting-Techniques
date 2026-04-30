@@ -1,4 +1,5 @@
-
+# name:Sreenithi
+## reg :212223220109
 # Ex-4: Scenario-Based Report Development Utilizing Diverse Prompting Techniques
 
 ## Aim
